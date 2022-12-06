@@ -1,0 +1,1 @@
+rounds = File.read("rock_scissor_paper_round_input.txt").split("\n").map(&:split)
